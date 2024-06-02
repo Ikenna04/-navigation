@@ -18,8 +18,8 @@
 
 ### Links
 
-- Solution URL: (https://github.com/Ikenna04/navigation)
-- Live Site URL: (https://ikenna04.github.io/navigation/)
+- Solution URL: (https://github.com/Ikenna04/-navigation)
+- Live Site URL: (https://ikenna04.github.io/-navigation/)
 
 ### Built with
 
